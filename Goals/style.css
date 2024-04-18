@@ -1,0 +1,68 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0dada;
+    color: #333;
+}
+
+header {
+    background-color: #1c252b;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
+
+.goals-programs {
+    padding: 20px;
+}
+
+h2 {
+    color: #3498db;
+}
+
+.goal-category {
+    margin-bottom: 30px;
+}
+
+.goal-category h3,
+.featured-programs h3 {
+    color: #2ecc71;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #3498db;
+}
+
+a:hover {
+    color: #2ecc71;
+}
+
+.program {
+    background-color: #fff;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.program h4 {
+    color: #e74c3c;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
